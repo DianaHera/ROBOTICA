@@ -19,12 +19,12 @@ Cum funcționează:
 Dacă apeși butonul de stop pentru mai mult de o secundă în timpul încărcării, procesul se va opri imediat, iar toate LED-urile vor clipi de 3 ori pentru a semnala oprirea. LED-ul de disponibilitate va reveni la verde.
 
 # Componente:
--4x LED-uri (pentru a simula procentul de încărcare)
--1x LED RGB (pentru starea de liber sau ocupat)
--2x Butoane (pentru start încărcare și stop încărcare)
--9x Rezistoare (7x 220/330ohm, 2x 1K)
--Breadboard
--Fire de legătură
+   -4x LED-uri (pentru a simula procentul de încărcare)
+   -1x LED RGB (pentru starea de liber sau ocupat)
+   -2x Butoane (pentru start încărcare și stop încărcare)
+   -9x Rezistoare (7x 220/330ohm, 2x 1K)
+   -Breadboard
+   -Fire de legătură
 # Schema electrica:
 
 ![Captură de ecran 2024-10-22 122005](https://github.com/user-attachments/assets/4eb210e0-0b15-4708-bcf4-642c9b8d387a)
