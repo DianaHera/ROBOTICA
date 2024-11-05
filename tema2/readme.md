@@ -28,3 +28,13 @@
   # Observații generale:
         Durata rundei: O rundă durează 30 de secunde.
         Finalul rundei: La sfârșitul fiecărei runde, în terminal se va afișa numărul total de cuvinte scrise corect de utilizator.
+
+   # Video
+       https://youtu.be/wPO5p46tqiE
+
+   # Poze
+![Imagine WhatsApp 2024-11-05 la 16 38 47_ecf07d66](https://github.com/user-attachments/assets/6cefc8e3-d56f-4657-a958-8c3707ba7496)
+
+![Imagine WhatsApp 2024-11-05 la 16 38 47_78e281f5](https://github.com/user-attachments/assets/faf0ac05-b4d7-4c1c-93b8-a40944b2af7d)
+
+![Imagine WhatsApp 2024-11-05 la 16 38 47_06971042](https://github.com/user-attachments/assets/1810d0ff-2307-4718-9d2c-33420bc31a8b)
