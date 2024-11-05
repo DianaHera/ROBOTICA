@@ -1,4 +1,4 @@
-Tema aceasca simuleaza un joc de tipul TypeRacer
+ ## Tema aceasca simuleaza un joc de tipul TypeRacer
 
   # LED RGB - Indicator de stare:
         Stare de repaus: LED-ul va afișa culoarea albă.
