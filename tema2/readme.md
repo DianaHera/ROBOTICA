@@ -38,3 +38,5 @@
 ![Imagine WhatsApp 2024-11-05 la 16 38 47_78e281f5](https://github.com/user-attachments/assets/faf0ac05-b4d7-4c1c-93b8-a40944b2af7d)
 
 ![Imagine WhatsApp 2024-11-05 la 16 38 47_06971042](https://github.com/user-attachments/assets/1810d0ff-2307-4718-9d2c-33420bc31a8b)
+
+![Captură de ecran 2024-11-04 162557](https://github.com/user-attachments/assets/d2bfb921-45f9-407a-8a2d-c3db36d4fe67)
