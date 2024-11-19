@@ -1,4 +1,5 @@
-# Reflex Game pentru Doi Jucători
+# Quick Time Game
+- Coechipier: Stefan Ana-Maria -
 
 ## Descriere
 Această temă constă în dezvoltarea unui joc competitiv de reflex pentru doi jucători, în care participanții concurează pentru a obține cel mai mare scor, testându-și viteza de reacție. Proiectul trebuie realizat de echipe formate din două persoane.
