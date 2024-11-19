@@ -17,9 +17,9 @@ Fiecare jucător dispune de un set de 3 butoane, 3 LED-uri simple si un LED RGB,
 - *2x Arduino Uno*
 - *1X potentiometru*
 - *1x buzzer*
-- **8x rezistoare de 1 kOhm
-- **13x rezistoare de 330 Ohm
-- **1x rezistoare de 100 Ohm
+- *8x rezistoare de 1 kOhm*
+- *13x rezistoare de 330 Ohm*
+- *1x rezistoare de 100 Ohm*
 
 ## Flow-ul Jocului
 
